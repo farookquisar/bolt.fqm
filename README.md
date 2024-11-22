@@ -1,6 +1,7 @@
 # QUICK
 
 Add Claude API key in .env.local
+gitignore .env.local
 rm -rf node_modules pnpm-lock.yaml package-lock.json
 pnpm install
 pnpm run dev
