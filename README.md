@@ -1,20 +1,21 @@
 # QUICK
 
-Add Claude API key in .env.local
-gitignore .env.local
-rm -rf node_modules pnpm-lock.yaml package-lock.json
-pnpm install
-pnpm run dev
-run this in Chrome
-Choose Anthropic and model "Haiku" (or sonnet more expensive)
+      - cp .env.example .env.local
+      - Add Claude API key in .env.local
+      - rm -rf node_modules pnpm-lock.yaml package-lock.json
+      - pnpm install
+      - pnpm run dev
+      - run this in Chrome
+      - Choose Anthropic and model "Haiku" (or sonnet more expensive)
 
 The same way can be done with OpenAI, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, and Groq
 
-The details below
+### See the YT:
 
-See the YT: 
-https://youtu.be/9gDdZOfoy9s?si=AjvhyHvVb_7NKGrL 
+https://youtu.be/9gDdZOfoy9s?si=AjvhyHvVb_7NKGrL
 https://youtu.be/3PFcAu_oU80?t=119
+
+### Other details below
 
 ---
 
