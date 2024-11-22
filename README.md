@@ -12,8 +12,8 @@ The same way can be done with OpenAI, Ollama, OpenRouter, Gemini, LMStudio, Mist
 
 ### See the YT:
 
-https://youtu.be/9gDdZOfoy9s?si=AjvhyHvVb_7NKGrL
-https://youtu.be/3PFcAu_oU80?t=119
+  - Ditch Expensive Tools and Build Anything with Bolt.new for FREE https://youtu.be/9gDdZOfoy9s?si=AjvhyHvVb_7NKGrL
+  - I Forked Bolt.new and Made it WAY Better https://youtu.be/3PFcAu_oU80?t=119
 
 ### Other details below
 
