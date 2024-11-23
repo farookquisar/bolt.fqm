@@ -1,6 +1,18 @@
 # QUICK
 
-      - cp .env.example .env.local
+```bash title="" {} copy collapse={3-300}  showLineNumbers=false
+cp .env.example .env.local    
+```
+
+```bash title="" {} copy collapse={3-300}  showLineNumbers=false
+rm -rf node_modules pnpm-lock.yaml package-lock.json    
+```
+
+```bash title="" {} copy collapse={3-300}  showLineNumbers=false
+pnpm install    
+pnpm run dev
+```
+      - 
       - Add Claude API key in .env.local
       - rm -rf node_modules pnpm-lock.yaml package-lock.json
       - pnpm install
