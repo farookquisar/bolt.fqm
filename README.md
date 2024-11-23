@@ -1,8 +1,22 @@
 # QUICK
 
+### 1. .env.local
+
+<div class={wrapper}>
+<details>
+<summary>	Setup .env.local</summary>
+
 ```bash title="env" {} copy collapse={3-300}  showLineNumbers=false
 cp .env.example .env.local    
 ```
+
+</details>
+</div>
+
+
+
+
+####
 
 ```bash title="clean" {} copy collapse={3-300}  showLineNumbers=false
 rm -rf node_modules pnpm-lock.yaml package-lock.json    
