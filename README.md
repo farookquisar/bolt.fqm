@@ -1,6 +1,6 @@
 # QUICK
 
-### 1. .env.local
+#### 1. .env.local
 
 <div class={wrapper}>
 <details>
@@ -14,16 +14,18 @@ cp .env.example .env.local
 </details>
 </div>
 
-### 2. Add Claude API key in .env.local to use Claude 
+#### 2. Add Claude API key in .env.local to use Claude 
 
 
 
 
-####
+#### 3. Clean It
 
 ```bash title="clean" {} copy collapse={3-300}  showLineNumbers=false
 rm -rf node_modules pnpm-lock.yaml package-lock.json    
 ```
+
+#### 3. install and Run
 
 ```bash title="Install and Run" {} copy collapse={3-300}  showLineNumbers=false
 pnpm install    
