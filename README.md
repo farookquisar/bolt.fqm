@@ -1,14 +1,14 @@
 # QUICK
 
-```bash title="" {} copy collapse={3-300}  showLineNumbers=false
+```bash title="env" {} copy collapse={3-300}  showLineNumbers=false
 cp .env.example .env.local    
 ```
 
-```bash title="" {} copy collapse={3-300}  showLineNumbers=false
+```bash title="clean" {} copy collapse={3-300}  showLineNumbers=false
 rm -rf node_modules pnpm-lock.yaml package-lock.json    
 ```
 
-```bash title="" {} copy collapse={3-300}  showLineNumbers=false
+```bash title="Install and Run" {} copy collapse={3-300}  showLineNumbers=false
 pnpm install    
 pnpm run dev
 ```
