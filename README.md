@@ -10,8 +10,11 @@
 cp .env.example .env.local    
 ```
 
+
 </details>
 </div>
+
+### 2. Add Claude API key in .env.local to use Claude 
 
 
 
