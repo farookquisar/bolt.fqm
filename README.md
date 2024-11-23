@@ -27,10 +27,18 @@ rm -rf node_modules pnpm-lock.yaml package-lock.json
 
 #### 3. install and Run
 
+<div class={wrapper}>
+<details>
+<summary>	<span class={detHdr}> XXX_Detail_Header </span></summary>
+
 ```bash title="Install and Run" {} copy collapse={3-300}  showLineNumbers=false
 pnpm install    
 pnpm run dev
 ```
+
+</details>
+</div>
+
       - 
       - Add Claude API key in .env.local
       - rm -rf node_modules pnpm-lock.yaml package-lock.json
